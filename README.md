@@ -1,0 +1,2 @@
+# HAD
+Human activity detection
